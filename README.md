@@ -33,7 +33,7 @@ The majority of rented facilities (67,8%) offer the entire place and it’s the 
 ## Is it profitable to be a superhost?
 
 <p align="center">
-<img src="images/image3.png" width=42% height=42%>  <img src="images/image4.png" width=42% height=42%>
+<img src="images/image3.png" width=40% height=40%>  <img src="images/image4.png" width=40% height=40%>
 </p>
 
 24% of hosts have a "superhost" badge and they charge more and have better ratings than regular hosts. It’s understandable because superhosts have to meet additional requirements like getting enough reservations, maintaining established response rate or avoiding cancellations.  

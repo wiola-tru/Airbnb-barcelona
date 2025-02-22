@@ -1,8 +1,12 @@
+# Power BI
+
+[![powerbi-logo](powerbi-logo-32px.png) Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDk5NDA4NGMtYzgxYy00NDYyLTkxZTQtOTNjZjM1MWI5OTM5IiwidCI6ImFhZWM3MDYyLTE0ODYtNDQ0OS05ZTM4LTY4Y2FkN2IwZDMyNiJ9)
+
 ## Introduction
 
 As a passionate traveler, I came across a dataset containing extensive information about Airbnb listings in Barcelona. I was intrigued and decided to dive deeper into it and uncover interesting insights. The dataset comes from [Inside Airbnb](https://insideairbnb.com/get-the-data/) and offers detailed insights into Airbnb listings across the city in 2024\.   
-The main goal of my project was to analyze rental data in Barcelona and answer key questions: 
 
+The main goal of my project was to analyze rental data in Barcelona and answer key questions:
 - What does the rental property market in Barcelona look like?  
 - What types of properties are common?  
 - What is the average rental price, and how are rental prices distributed?  

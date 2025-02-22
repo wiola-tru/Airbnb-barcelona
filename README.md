@@ -84,14 +84,14 @@ In the map above, we can see how the properties are distributed across Barcelona
 * Listing capacity,  
 * Room type.
 
-### Recommendations for tourists:
+## Recommendations for tourists:
 
 - Most rental listings are available in the range 40-120 € per night.  
 - If you’re looking for a budget-friendly accommodation (\<40 €) \- you’ll find it but they're limited.  
 - If you prefer higher-quality service and don’t mind paying more, choose an offer from a Superhost.  
 - Eixample and Ciutat Vella are central and tourist-heavy districts with the biggest amount of apartments.
 
-### Recommendations for investors:
+## Recommendations for investors:
 
 - If you’re a host \- competitive price from 50 € to 100 € allow you to reach a wide range of tourists.  
 - Being a superhost gives you the opportunity to charge higher prices.  
@@ -101,7 +101,7 @@ In the map above, we can see how the properties are distributed across Barcelona
 - You need to know that Barcelona has strict short-term rental laws so always check local regulations before purchasing a property for Airbnb investment :)
   
 
-
+---
 
 **Source:**
 

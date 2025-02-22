@@ -28,6 +28,7 @@ The majority of rented facilities (67,8%) offer the entire place and it’s the 
 ![](images/image3.png) ![](images/image4.png)
 
 24% of hosts have a "superhost" badge and they charge more and have better ratings than regular hosts. It’s understandable because superhosts have to meet additional requirements like getting enough reservations, maintaining established response rate or avoiding cancellations.  
+
 **How are rental prices distributed?**
 
 ![](images/image5.png)
@@ -42,6 +43,7 @@ The chart illustrates the relationship between listing capacity and rental price
 As expected, the total rental price increases with capacity, reflecting the higher cost of larger accommodations. The average price per guest tends to decrease as capacity rises, indicating that privacy comes at a premium. Notably, for listings accommodating more than 8 guests, there are exceptions where the price per person increases, though these listings represent only 5% of the market. This could be due to premium amenities, unique properties, or limited availability in that category.
 
 **What are the best areas to stay in Barcelona?**  
+
 ![](images/image7.png)
 
 The chart shows that the highest number of rental properties is in Eixample, while highest density reveals in Ciutat Vella. There is a significant gap between these two districts and the rest. Eixample, known for its modernist architecture, is popular among hipsters and tourists. It is home to major attractions such as the Sagrada Familia, La Rambla de Catalunya, and Casa Batlló, making it a prime location for tourists. Whereas Ciutat Vella, also called the Old Town, is the oldest district in Barcelona. With landmarks like La Rambla, the Boqueria Market, and the Barcelona Cathedral, it’s easy to see why rental demand is high here. The third most densely populated district in terms of rentals is Gràcia, known for its bohemian, artistic atmosphere. The most popular spot here is Park Güell, which fascinates tourists from all over the world.   
@@ -78,6 +80,7 @@ In the map above, we can see how the properties are distributed across Barcelona
 - Larger accommodations are more profitable.  
 - It’s beneficial to rent a property in Eixample, Sant Marti, Sarrià-Sant Gervasi or Les Corts, as you can set higher rental prices. However, expect intense competition in Exiample.  
 - You need to know that Barcelona has strict short-term rental laws so always check local regulations before purchasing a property for Airbnb investment :)
+
 
 
 Source: 

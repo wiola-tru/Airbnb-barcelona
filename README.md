@@ -1,6 +1,6 @@
 ## Introduction
 
-As a passionate traveler and Mediterranean weather lover, I came across a dataset containing extensive information about Airbnb listings in Barcelona. I was intrigued and decided to dive deeper into it and uncover interesting insights. The dataset comes from [Inside Airbnb](https://insideairbnb.com/get-the-data/) and offers detailed insights into Airbnb listings across the city in 2024\.   
+As a passionate traveler, I came across a dataset containing extensive information about Airbnb listings in Barcelona. I was intrigued and decided to dive deeper into it and uncover interesting insights. The dataset comes from [Inside Airbnb](https://insideairbnb.com/get-the-data/) and offers detailed insights into Airbnb listings across the city in 2024\.   
 The main goal of my project was to analyze rental data in Barcelona and answer key questions: 
 
 - What does the rental property market in Barcelona look like?  

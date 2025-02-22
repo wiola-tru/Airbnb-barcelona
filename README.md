@@ -1,6 +1,7 @@
-# Power BI
+## Power BI
 
-[![powerbi-logo](powerbi-logo-32px.png) Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDk5NDA4NGMtYzgxYy00NDYyLTkxZTQtOTNjZjM1MWI5OTM5IiwidCI6ImFhZWM3MDYyLTE0ODYtNDQ0OS05ZTM4LTY4Y2FkN2IwZDMyNiJ9)
+[![powerbi-logo](images/32px-New_Power_BI_Logo.svg.png) Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDk5NDA4NGMtYzgxYy00NDYyLTkxZTQtOTNjZjM1MWI5OTM5IiwidCI6ImFhZWM3MDYyLTE0ODYtNDQ0OS05ZTM4LTY4Y2FkN2IwZDMyNiJ9)
+
 
 ## Introduction
 

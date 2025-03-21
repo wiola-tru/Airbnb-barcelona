@@ -14,7 +14,7 @@ The main goal of my project was to analyze rental data in Barcelona and answer k
 - Which districts are the best to rent?   
 - Which areas are the most profitable for investors?
 
-Before I started visualizing data in Power BI, I analyzed basic statistics and cleaned the dataset. I removed records where prices were above and below 0.05 percentile (above 17 € and below 1070 €) and absent prices because they disrupted my analysis. I also calculated the rental property density in each district based on its area.
+Before I started visualizing data in Power BI, I analyzed basic statistics and cleaned the dataset. I removed records where prices were above and below 0.05 percentile (below 17 € and above 1070 €) and absent prices because they disrupted my analysis. I also calculated the rental property density in each district based on its area.
 
 ## Visualisation
 
